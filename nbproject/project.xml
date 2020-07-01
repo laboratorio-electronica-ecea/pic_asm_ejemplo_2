@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>pic_asm</name>
+            <name>pic_asm_ejemplo_2</name>
             <creation-uuid>dfa22951-de9b-4b51-87e8-04e334fc759e</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions/>
